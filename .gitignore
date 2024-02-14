@@ -13,10 +13,9 @@
 bin/
 .vscode/
 .local/
+.idea
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
 llama.cpp/
 whisper.cpp/
-
-*/.hugo_build.lock
